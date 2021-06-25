@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/dynamic/json?query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dnewsblur%26queryKey%3Dhttps%3A%2F%2Fblog.shuiba.co%2Ffeed&label=NewsBlur&labelColor=fdc85b&color=282c34&style=for-the-badge)
 
-![](https://img.shields.io/badge/dynamic/json?query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DfeedsPub%26queryKey%3Dhttps%3A%2F%2Fblog.shuiba.co%2Ffeed&label=Feeds Pub&labelColor=48bb78&color=282c34&style=for-the-badge)
+![](https://img.shields.io/badge/dynamic/json?query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DfeedsPub%26queryKey%3Dhttps%3A%2F%2Fblog.shuiba.co%2Ffeed&label=Feeds%20Pub&labelColor=48bb78&color=282c34&style=for-the-badge)
 
 
 <!--

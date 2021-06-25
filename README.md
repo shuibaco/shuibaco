@@ -1,4 +1,4 @@
-[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%257Cnewsblur%26queryKey%3Dhttps%3A%2F%2Fblog.shuiba.co%2Ffeed&style=for-the-badge)](https://blog.shuiba.co)
+[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=f26522&color=f26522&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%257Cnewsblur%26queryKey%3Dhttps%3A%2F%2Fblog.shuiba.co%2Ffeed&style=for-the-badge)](https://blog.shuiba.co)
 
 
 <!--

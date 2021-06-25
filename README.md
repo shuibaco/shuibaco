@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/dynamic/json?label=Feedly&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fblog.shuiba.co%2Ffeed&labelColor=2bb24c&logoColor=white&color=282c34&logo=feedly&style=for-the-badge
+![](https://img.shields.io/badge/dynamic/json?label=Feedly&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fblog.shuiba.co%2Ffeed&labelColor=2bb24c&logoColor=white&color=282c34&logo=feedly&style=for-the-badge)
 
 https://img.shields.io/badge/dynamic/json?label=Inoreader&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fblog.shuiba.co%2Ffeed&labelColor=007bc7&logoColor=white&color=282c34&logo=inoreader&style=for-the-badge
 
